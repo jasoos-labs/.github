@@ -116,18 +116,6 @@ JasoosLabs projects are accompanied, where practical, by guides, examples, demon
 
 ---
 
-## Current Products
-
-### NovaInsert
-
-Windows productivity and AI-workflow software.
-
-**Agentic AI, Simplified.**
-
-More JasoosLabs projects will be published as they become ready for public use.
-
----
-
 ## JasoosLabs
 
 **Of the AI, By the AI and For the AI.**
