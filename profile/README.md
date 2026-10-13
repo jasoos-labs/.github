@@ -30,29 +30,69 @@ Some projects become applications. Others become experiments, tutorials, reusabl
 
 ---
 
+## Our Released Products
+
+1. [TTS Voice Showdown](#tts-voice-showdown)
+2. [Windows Dev Starter Kit — PowerShell Edition](#windows-dev-starter-kit--powershell-edition)
+3. [NovaInsert](#novainsert)
+
+---
+
+## TTS Voice Showdown
+
+### Hear the difference before choosing a narration voice
+
+Choosing a voice from a name or sample clip can be misleading. TTS Voice Showdown lets you hear AI voices, cloned voices, and the author’s recorded voice read the **same passage**, so you can compare how they actually sound for video narration.
+
+Choose one of three passages, select up to three voices, and play them individually or together. Compare the voices side by side and decide which fits your video.
+
+**What’s included:** 17 recordings from 10 sources: commercial and Windows voices, open models, voice clones, and the author’s recording. Links identify the source or model behind each recording group.
+
+**TTS Voice Showdown helps you choose by listening and comparing—not by guessing from a voice label.**
+
+- [Open the live PWA](https://jasoos-labs.github.io/tts-voice-showdown/)
+- [View the source repository](https://github.com/jasoos-labs/tts-voice-showdown)
+
+---
+
+## Windows Dev Starter Kit — PowerShell Edition
+
+### Spend less effort remembering the chores around your project
+
+Every project comes with a familiar set of small jobs: find a file, inspect changes, package source, apply an update, build, test, and run. Remembering which command does what—and how to do it consistently—can become its own task.
+
+**Windows Dev Starter Kit gives those chores a simple, repeatable command set.** Short commands help you inspect a project, search files and text, check Git status, and follow a build-test-run cycle from PowerShell.
+
+**`bld` → `tst` → `run`**  
+Or use **`go`** to build, test, and run in sequence, stopping when a step fails.
+
+It’s a beginner-friendly personal toolkit for working with projects under Windows development folders. It complements the tools you already use; it isn’t meant to replace experienced developers’ established workflows.
+
+- [View the public repository](https://github.com/jasoos-labs/windows-dev-starter-kit-powershell)
+
+---
+
 ## NovaInsert
 
-### Agentic AI, Simplified
+### Put augmented and agentic AI to work—with structure
 
-**Structured AI Coding • Asynchronous Coding • Reusable Workflows • Hideout**
+AI can help explore ideas, build solutions, and handle work in the background. But every task still needs clear direction, useful context, and a way to check the result.
 
-NovaInsert is a Windows tool for organizing work you repeatedly do with AI, development tools, applications, and information.
+**NovaInsert gives you a repeatable way to manage that work.** Use the **4E Value Chain** to move from exploring a possibility to realizing value. Use the **5E Solution Chain** to take each task from understanding the need through evidence, engineering, evaluation, and delivery.
 
-It provides reusable structures for prompts, commands, procedures, testing, verification, agent delegation, keyboard actions, and other recurring work.
-
-For AI-assisted development, NovaInsert supports a different way of working:
+Prepare the instructions and tools for a project, give the task to AI, step away while it works, then return to verify the result. Reuse what works instead of reconstructing your workflow each time. NovaInsert also helps with the commands and repetitive computer tasks around your AI work.
 
 **Prepare → Delegate → Leave → Return → Verify**
 
-Rather than requiring continuous interaction with an AI coding session, work can be prepared and delegated, then reviewed when convenient.
+You direct the work and remain accountable for the result. NovaInsert helps make the process organized and repeatable.
 
-NovaInsert also includes **Hideout** for protected reusable information that should remain separate from ordinary workflow material.
+**Library Insert Sets (LIS)** organize reusable prompts, instructions, procedures, commands, checks, and keyboard actions by project, ready to send to the application where the work happens. **Hideout** keeps selected protected information separate from ordinary workflow material.
 
-### Get NovaInsert
+NovaInsert is a Windows tool for human-directed AI workflows and everyday computer tasks. It facilitates agentic work; it is not an autonomous AI agent.
 
-Current public downloads, documentation, and release notes are available in the **JasoosLabs Releases** repository:
+- [Get NovaInsert downloads and release notes](https://github.com/jasoos-labs/releases)
+- [View the NovaInsert repository](https://github.com/jasoos-labs/NovaInsert) (private source repository)
 
-https://github.com/jasoos-labs/releases
 
 ---
 
